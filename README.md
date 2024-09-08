@@ -9,6 +9,13 @@ This project involves extracting, cleaning, and analyzing a dataset of Netflix m
 - **Dataset**: [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows) (CSV format).
 - **Tools Used**: Python, Pandas, JupyterNotebooks, Visual Studio Code, pgAdmin 4 for PostgreSQL, SQL.
 
+## Skills Applied
+- Window Functions
+- CTEs
+- Aggregations
+- JOINs
+- Python Functions and Pandas
+
 ## Table of Contents
 
 - [Data Preparation](#Data-Preparation)
